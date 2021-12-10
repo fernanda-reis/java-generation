@@ -11,6 +11,7 @@ public class Exercicio04 {
 
 	public static void main(String[] args) {
 		Scanner read = new Scanner(System.in);
+		read.close();
 		
 		int numero;
 		double resultado;
